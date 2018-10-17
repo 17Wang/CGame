@@ -1,0 +1,34 @@
+﻿  源.cpp
+  VisibleGameObject.cpp
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(267): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(451): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(466): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(479): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(494): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(507): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(635): warning C4305: “参数”: 从“double”到“float”截断
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(640): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(641): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(727): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(728): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(773): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(774): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(780): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(1069): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(1082): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(1094): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\visiblegameobject.cpp(1107): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Splash.cpp
+  Menu.cpp
+  GameMap.cpp
+  Game.cpp
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\game.cpp(21): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  Account.cpp
+  正在生成代码...
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\account.cpp(99): warning C4715: “AccountScreen::show”: 不是所有的控件路径都返回值
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\menu.cpp(149): warning C4715: “MainMenu::GetMenuResponse”: 不是所有的控件路径都返回值
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\menu.cpp(117): warning C4715: “MainMenu::show”: 不是所有的控件路径都返回值
+h:\vs 2015\小学期\寒冰大战石头人0.0\pro1\splash.cpp(94): warning C4715: “SplashScreen::show”: 不是所有的控件路径都返回值
+  pro1.vcxproj -> H:\vs 2015\小学期\寒冰大战石头人0.0\pro1\x64\Debug\pro1.exe
+  pro1.vcxproj -> H:\vs 2015\小学期\寒冰大战石头人0.0\pro1\x64\Debug\pro1.pdb (Full PDB)
